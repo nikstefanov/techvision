@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Map>
+	<Mimetype><Name>image/jpeg</Name><Extension>jpeg</Extension></Mimetype>
+	<Mimetype><Name>image/pjpeg</Name><Extension>jpg</Extension></Mimetype>
+	<Mimetype><Name>image/x-png</Name><Extension>png</Extension></Mimetype>
+	<Mimetype><Name>image/png</Name><Extension>png</Extension></Mimetype>
+	<Mimetype><Name>image/bmp</Name><Extension>bmp</Extension></Mimetype>
+	<Mimetype><Name>image/gif</Name><Extension>gif</Extension></Mimetype>
+</Map>

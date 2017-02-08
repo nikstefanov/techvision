@@ -1,0 +1,1233 @@
+<Categories>
+<Category>
+	<ID>1</ID>
+	<Name>Notebooks</Name>
+	<Map><CID>3</CID></Map>
+	<Attribute_set>Laptops &amp; Netbooks</Attribute_set>
+	<Title>Лаптоп</Title>
+	<Deleted>1</Deleted>
+</Category>
+<Category>
+	<ID>2</ID>
+	<Name>Packard Bell LIBERTY TAB G100</Name>
+	<Parent><ID>1</ID><Name>Notebooks</Name></Parent>
+	<Title>PACKARD BELL Libery Tab G100</Title>
+	<Deleted>1</Deleted>
+</Category>
+<Category>
+	<ID>3</ID>
+	<Name>TABLETS</Name>
+	<Map><CID>38</CID><CID>59</CID></Map>
+	<Attribute_set>Tablets &amp; E-Readers</Attribute_set>
+	<Title>Таблет</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>4</ID>
+	<Name>NETBOOKS</Name>
+	<Map><CID>3</CID></Map>
+	<Attribute_set>Laptops &amp; Netbooks</Attribute_set>
+	<Title>Лаптоп</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>5</ID>
+	<Name>МОНИТОРИ</Name>
+	<Map><CID>62</CID><CID>72</CID></Map>
+	<Attribute_set>Monitors &amp; TV</Attribute_set>
+	<Title>Монитор</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>6</ID>
+	<Name>МОБИЛНИ КОМПЮТРИ</Name>
+	<Map><CID>3</CID></Map>
+	<Attribute_set>Laptops &amp; Netbooks</Attribute_set>
+	<Title>Лаптоп</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>7</ID>
+	<Name>ELO POS ТЕРМИНАЛ</Name>
+	<Map><CID>35</CID><CID>36</CID></Map>
+	<Attribute_set>Computers</Attribute_set>
+	<Title>ПОС терминал</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>8</ID>
+	<Name>ПРОЕКТОРИ</Name>
+	<Map><CID>140</CID><CID>148</CID></Map>
+	<Attribute_set>Projector</Attribute_set>
+	<Title>Проектор</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>9</ID>
+	<Name>ELO TOUCH</Name>
+	<Parent><ID>5</ID><Name>МОНИТОРИ</Name></Parent>
+	<Map><CID>313</CID></Map>
+	<Title>ELO TOUCH</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>10</ID>
+	<Name>NOTEBOOKS TOSHIBA - OPTIONS</Name>
+	<Import>false</Import>
+	<Deleted>1</Deleted>
+</Category>
+<Category>
+	<ID>11</ID>
+	<Name>MOBILE PHONES</Name>
+	<Map><CID>194</CID><CID>208</CID></Map>
+	<Attribute_set>Phones</Attribute_set>
+	<Title>Мобилен телефон</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>12</ID>
+	<Name>TOSHIBA PRINTERS &amp; MFP</Name>
+	<Map><CID>122</CID><CID>124</CID></Map>
+	<Attribute_set>Printers</Attribute_set>
+	<Title>Принтер TOSHIBA</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>13</ID>
+	<Name>PRINTERS &amp; MFP OKI</Name>
+	<Map><CID>122</CID><CID>124</CID></Map>
+	<Attribute_set>Printers</Attribute_set>
+	<Title>Принтер OKI</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>14</ID>
+	<Name>CONSUMABLES OKI</Name>
+	<Import>false</Import>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>15</ID>
+	<Name>PHILIPS Mонитори</Name>
+	<Parent><ID>5</ID><Name>МОНИТОРИ</Name></Parent>
+	<Title>PHILIPS</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>16</ID>
+	<Name>ANTI-VIRUS SOFTWARE</Name>
+	<Map><CID>185</CID><CID>186</CID></Map>
+	<Attribute_set>Software</Attribute_set>
+	<Title>Антивирусен софтуер</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>17</ID>
+	<Name>EIZO Монитори</Name>
+	<Parent><ID>5</ID><Name>МОНИТОРИ</Name></Parent>
+	<Title>EIZO</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>18</ID>
+	<Name>AOC Монитори</Name>
+	<Parent><ID>5</ID><Name>МОНИТОРИ</Name></Parent>
+	<Title>AOC</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>19</ID>
+	<Name>NEC Монитори</Name>
+	<Parent><ID>5</ID><Name>МОНИТОРИ</Name></Parent>
+	<Title>NEC</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>20</ID>
+	<Name>IIYAMA Монитори</Name>
+	<Parent><ID>5</ID><Name>МОНИТОРИ</Name></Parent>
+	<Title>IIYAMA</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>21</ID>
+	<Name>СЪРВЪРИ</Name>
+	<Map><CID>35</CID><CID>37</CID></Map>
+	<Attribute_set>Computers</Attribute_set>
+	<Title>Сървър</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>22</ID>
+	<Name>FUJITSU</Name>
+	<Parent><ID>6</ID><Name>МОБИЛНИ КОМПЮТРИ</Name></Parent>
+	<Title>FUJITSU</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>23</ID>
+	<Name>FUJITSU SERVERS</Name>
+	<Parent><ID>21</ID><Name>СЪРВЪРИ</Name></Parent>
+	<Title>FUJITSU</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>24</ID>
+	<Name>TOSHIBA</Name>
+	<Parent><ID>6</ID><Name>МОБИЛНИ КОМПЮТРИ</Name></Parent>
+	<Title>TOSHIBA</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>25</ID>
+	<Name>FUJITSU DESKTOPS</Name>
+	<Map><CID>35</CID><CID>36</CID></Map>
+	<Attribute_set>Computers</Attribute_set>
+	<Title>Настолен компютър FUJITSU</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>26</ID>
+	<Name>Колориметри</Name>
+	<Parent><ID>5</ID><Name>МОНИТОРИ</Name></Parent>
+	<Map><CID>203</CID><CID>273</CID></Map>
+	<Attribute_set>Accessories</Attribute_set>
+	<Title>Колориметър</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>27</ID>
+	<Name>FUJITSU THIN CLIENTS</Name>
+	<Map><CID>35</CID><CID>36</CID></Map>
+	<Attribute_set>Computers</Attribute_set>
+	<Title>Настолен компютър FUJITSU</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>28</ID>
+	<Name>FUJITSU SCANNERS</Name>
+	<Map><CID>122</CID><CID>221</CID></Map>
+	<Attribute_set>Scanners</Attribute_set>
+	<Title>Скенер FUJITSU</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>29</ID>
+	<Name>PACKARD BELL</Name>
+	<Parent><ID>6</ID><Name>МОБИЛНИ КОМПЮТРИ</Name></Parent>
+	<Title>PACKERD BELL</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>30</ID>
+	<Name>Scan Snap Personal Scanning Solutions</Name>
+	<Parent><ID>28</ID><Name>FUJITSU SCANNERS</Name></Parent>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>31</ID>
+	<Name>Office Scanner</Name>
+	<Parent><ID>28</ID><Name>FUJITSU SCANNERS</Name></Parent>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>32</ID>
+	<Name>Department Scanner</Name>
+	<Parent><ID>28</ID><Name>FUJITSU SCANNERS</Name></Parent>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>33</ID>
+	<Name>Production Scanner</Name>
+	<Parent><ID>28</ID><Name>FUJITSU SCANNERS</Name></Parent>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>34</ID>
+	<Name>Specialities&amp;Network Scanning</Name>
+	<Parent><ID>28</ID><Name>FUJITSU SCANNERS</Name></Parent>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>35</ID>
+	<Name>IPS panel MONITORS</Name>
+	<Map><CID>62</CID><CID>72</CID></Map>
+	<Attribute_set>Monitors &amp; TV</Attribute_set>
+	<Deleted>1</Deleted>
+</Category>
+<Category>
+	<ID>36</ID>
+	<Name>ИЗВЪНГАРАНЦИОНЕН РЕМОНТ</Name>
+	<Import>false</Import>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>37</ID>
+	<Name>Монитори IIYAMA с висок клас панел IPS, PVA, MVA</Name>
+	<Parent><ID>20</ID><Name>IIYAMA Монитори</Name></Parent>
+	<Parent><ID>5</ID><Name>МОНИТОРИ</Name></Parent>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>38</ID>
+	<Name>PVA Панел</Name>
+	<Parent><ID>20</ID><Name>IIYAMA Монитори</Name></Parent>
+	<Parent><ID>5</ID><Name>МОНИТОРИ</Name></Parent>
+	<Deleted>1</Deleted>
+</Category>
+<Category>
+	<ID>39</ID>
+	<Name>ELO DESKTOP</Name>
+	<Parent><ID>9</ID><Name>ELO TOUCH</Name></Parent>
+	<Parent><ID>5</ID><Name>МОНИТОРИ</Name></Parent>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>40</ID>
+	<Name>EIZO ColorEdge</Name>
+	<Parent><ID>17</ID><Name>EIZO Монитори</Name></Parent>
+	<Parent><ID>5</ID><Name>МОНИТОРИ</Name></Parent>
+	<Deleted></Deleted>
+	<Title>ColorEdge</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>41</ID>
+	<Name>IBM SERVERS</Name>
+	<Parent><ID>21</ID><Name>СЪРВЪРИ</Name></Parent>
+	<Title>IBM</Title>
+	<Deleted>1</Deleted>
+</Category>
+<Category>
+	<ID>42</ID>
+	<Name>IBM SERVERS</Name>
+	<Parent><ID>21</ID><Name>СЪРВЪРИ</Name></Parent>
+	<Title>IBM</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>43</ID>
+	<Name>ПУБЛИЧНИ ДИСПЛЕИ</Name>
+	<Map><CID>62</CID><CID>72</CID></Map>
+	<Attribute_set>Monitors &amp; TV</Attribute_set>
+	<Title>Публичен дисплей</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>44</ID>
+	<Name>FUJITSU Монитори</Name>
+	<Parent><ID>5</ID><Name>МОНИТОРИ</Name></Parent>
+	<Title>FUJITSU</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>45</ID>
+	<Name>Монитор с ТВ-Тунер</Name>
+	<Parent><ID>5</ID><Name>МОНИТОРИ</Name></Parent>
+	<Map><CID>164</CID></Map>
+	<Title>с ТВ-тунер</Title>
+	<Deleted>1</Deleted>
+</Category>
+<Category>
+	<ID>46</ID>
+	<Name>Интерактивен модул</Name>
+	<Parent><ID>8</ID><Name>ПРОЕКТОРИ</Name></Parent>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>47</ID>
+	<Name>ELO IDS - Интерактивни Тъчскрийн Дисплеи</Name>
+	<Parent><ID>43</ID><Name>ПУБЛИЧНИ ДИСПЛЕИ</Name></Parent>
+	<Map><CID>313</CID></Map>
+	<Title>ELO IDS touchscreen</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>48</ID>
+	<Name>Software</Name>
+	<Parent><ID>28</ID><Name>FUJITSU SCANNERS</Name></Parent>
+	<Map><CID>185</CID><CID>188</CID></Map>
+	<Attribute_set>Software</Attribute_set>
+	<Title>софтуер</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>49</ID>
+	<Name>Класна Стая Мечта</Name>
+	<Import>false</Import>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>50</ID>
+	<Name>18.5" AOC</Name>
+	<Parent><ID>18</ID><Name>AOC Монитори</Name></Parent>
+	<Parent><ID>5</ID><Name>МОНИТОРИ</Name></Parent>
+	<Title>18.5"</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>51</ID>
+	<Name>17" PHILIPS</Name>
+	<Parent><ID>15</ID><Name>PHILIPS Mонитори</Name></Parent>
+	<Parent><ID>5</ID><Name>МОНИТОРИ</Name></Parent>
+	<Title>17"</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>52</ID>
+	<Name>19" wide AOC</Name>
+	<Parent><ID>18</ID><Name>AOC Монитори</Name></Parent>
+	<Parent><ID>5</ID><Name>МОНИТОРИ</Name></Parent>
+	<Title>19"</Title>
+	<Deleted>1</Deleted>
+</Category>
+<Category>
+	<ID>53</ID>
+	<Name>18.5" PHILIPS</Name>
+	<Parent><ID>15</ID><Name>PHILIPS Mонитори</Name></Parent>
+	<Parent><ID>5</ID><Name>МОНИТОРИ</Name></Parent>
+	<Title>18.5"</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>54</ID>
+	<Name>19" PHILIPS</Name>
+	<Parent><ID>15</ID><Name>PHILIPS Mонитори</Name></Parent>
+	<Parent><ID>5</ID><Name>МОНИТОРИ</Name></Parent>
+	<Title>19"</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>55</ID>
+	<Name>20" PHILIPS</Name>
+	<Parent><ID>15</ID><Name>PHILIPS Mонитори</Name></Parent>
+	<Parent><ID>5</ID><Name>МОНИТОРИ</Name></Parent>
+	<Title>20"</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>56</ID>
+	<Name>21.5" PHILIPS</Name>
+	<Parent><ID>15</ID><Name>PHILIPS Mонитори</Name></Parent>
+	<Parent><ID>5</ID><Name>МОНИТОРИ</Name></Parent>
+	<Title>21.5"</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>57</ID>
+	<Name>22" PHILIPS</Name>
+	<Parent><ID>15</ID><Name>PHILIPS Mонитори</Name></Parent>
+	<Parent><ID>5</ID><Name>МОНИТОРИ</Name></Parent>
+	<Title>22"</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>58</ID>
+	<Name>23" PHILIPS</Name>
+	<Parent><ID>15</ID><Name>PHILIPS Mонитори</Name></Parent>
+	<Parent><ID>5</ID><Name>МОНИТОРИ</Name></Parent>
+	<Title>23"</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>59</ID>
+	<Name>23.6" PHILIPS</Name>
+	<Parent><ID>15</ID><Name>PHILIPS Mонитори</Name></Parent>
+	<Parent><ID>5</ID><Name>МОНИТОРИ</Name></Parent>
+	<Title>23.6"</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>60</ID>
+	<Name>24" PHILIPS</Name>
+	<Parent><ID>15</ID><Name>PHILIPS Mонитори</Name></Parent>
+	<Parent><ID>5</ID><Name>МОНИТОРИ</Name></Parent>
+	<Title>24"</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>61</ID>
+	<Name>24" Монитори PHILIPS</Name>
+	<Parent><ID>15</ID><Name>PHILIPS Mонитори</Name></Parent>
+	<Parent><ID>5</ID><Name>МОНИТОРИ</Name></Parent>
+	<Title>24"</Title>
+	<Deleted>1</Deleted>
+</Category>
+<Category>
+	<ID>62</ID>
+	<Name>27" PHILIPS</Name>
+	<Parent><ID>15</ID><Name>PHILIPS Mонитори</Name></Parent>
+	<Parent><ID>5</ID><Name>МОНИТОРИ</Name></Parent>
+	<Title>27"</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>63</ID>
+	<Name>17" AOC</Name>
+	<Parent><ID>18</ID><Name>AOC Монитори</Name></Parent>
+	<Parent><ID>5</ID><Name>МОНИТОРИ</Name></Parent>
+	<Title>17"</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>64</ID>
+	<Name>19" AOC</Name>
+	<Parent><ID>18</ID><Name>AOC Монитори</Name></Parent>
+	<Parent><ID>5</ID><Name>МОНИТОРИ</Name></Parent>
+	<Title>19"</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>65</ID>
+	<Name>20" AOC</Name>
+	<Parent><ID>18</ID><Name>AOC Монитори</Name></Parent>
+	<Parent><ID>5</ID><Name>МОНИТОРИ</Name></Parent>
+	<Title>20"</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>66</ID>
+	<Name>21.5" AOC</Name>
+	<Parent><ID>18</ID><Name>AOC Монитори</Name></Parent>
+	<Parent><ID>5</ID><Name>МОНИТОРИ</Name></Parent>
+	<Title>21.5"</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>67</ID>
+	<Name>22" AOC</Name>
+	<Parent><ID>18</ID><Name>AOC Монитори</Name></Parent>
+	<Parent><ID>5</ID><Name>МОНИТОРИ</Name></Parent>
+	<Title>22"</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>68</ID>
+	<Name>23" AOC</Name>
+	<Parent><ID>18</ID><Name>AOC Монитори</Name></Parent>
+	<Parent><ID>5</ID><Name>МОНИТОРИ</Name></Parent>
+	<Title>23"</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>69</ID>
+	<Name>23.6" AOC</Name>
+	<Parent><ID>18</ID><Name>AOC Монитори</Name></Parent>
+	<Parent><ID>5</ID><Name>МОНИТОРИ</Name></Parent>
+	<Title>23.6"</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>70</ID>
+	<Name>EIZO FlexScan</Name>
+	<Parent><ID>17</ID><Name>EIZO Монитори</Name></Parent>
+	<Parent><ID>5</ID><Name>МОНИТОРИ</Name></Parent>
+	<Title>FlexScan</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>71</ID>
+	<Name>EIZO FORIS</Name>
+	<Parent><ID>17</ID><Name>EIZO Монитори</Name></Parent>
+	<Parent><ID>5</ID><Name>МОНИТОРИ</Name></Parent>
+	<Title>FORIS</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>72</ID>
+	<Name>Извънгаранционен ремонт Монитори</Name>
+	<Parent><ID>36</ID><Name>ИЗВЪНГАРАНЦИОНЕН РЕМОНТ</Name></Parent>
+	<Deleted>1</Deleted>
+</Category>
+<Category>
+	<ID>73</ID>
+	<Name>Извънгаранционен ремонт Преносими Компютри</Name>
+	<Parent><ID>36</ID><Name>ИЗВЪНГАРАНЦИОНЕН РЕМОНТ</Name></Parent>
+	<Deleted>1</Deleted>
+</Category>
+<Category>
+	<ID>74</ID>
+	<Name>Извънгаранционен ремонт Проектори</Name>
+	<Parent><ID>36</ID><Name>ИЗВЪНГАРАНЦИОНЕН РЕМОНТ</Name></Parent>
+	<Deleted>1</Deleted>
+</Category>
+<Category>
+	<ID>75</ID>
+	<Name>ELO OPENFRAME</Name>
+	<Parent><ID>9</ID><Name>ELO TOUCH</Name></Parent>
+	<Parent><ID>5</ID><Name>МОНИТОРИ</Name></Parent>
+	<Title>Openframe</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>76</ID>
+	<Name>EIZO EcoView</Name>
+	<Parent><ID>17</ID><Name>EIZO Монитори</Name></Parent>
+	<Parent><ID>5</ID><Name>МОНИТОРИ</Name></Parent>
+	<Title>EcoView</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>77</ID>
+	<Name>NEC DLP 3D</Name>
+	<Parent><ID>8</ID><Name>ПРОЕКТОРИ</Name></Parent>
+	<Title>NEC DLP 3D</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>78</ID>
+	<Name>NEC LCD</Name>
+	<Parent><ID>8</ID><Name>ПРОЕКТОРИ</Name></Parent>
+	<Title>NEC LCD</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>79</ID>
+	<Name>NEC Short-Throw</Name>
+	<Parent><ID>8</ID><Name>ПРОЕКТОРИ</Name></Parent>
+	<Title>NEC Short-Throw</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>80</ID>
+	<Name>NEC Ultra ST</Name>
+	<Parent><ID>8</ID><Name>ПРОЕКТОРИ</Name></Parent>
+	<Title>NEC Ultra ST</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>81</ID>
+	<Name>NEC Installation</Name>
+	<Parent><ID>8</ID><Name>ПРОЕКТОРИ</Name></Parent>
+	<Title>NEC Installation</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>82</ID>
+	<Name>NEC LED</Name>
+	<Parent><ID>8</ID><Name>ПРОЕКТОРИ</Name></Parent>
+	<Title>NEC LCD</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>83</ID>
+	<Name>NEC P series</Name>
+	<Parent><ID>8</ID><Name>ПРОЕКТОРИ</Name></Parent>
+	<Title>NEC P</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>84</ID>
+	<Name>3Q Таблети / 3Q Tablets</Name>
+	<Parent><ID>3</ID><Name>TABLETS</Name></Parent>
+	<Title>3Q</Title>
+	<Deleted>1</Deleted>
+</Category>
+<Category>
+	<ID>85</ID>
+	<Name>7" 3Q</Name>
+	<Parent><ID>84</ID><Name>3Q Таблети / 3Q Tablets</Name></Parent>
+	<Parent><ID>3</ID><Name>TABLETS</Name></Parent>
+	<Title>7"</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>86</ID>
+	<Name>8" 3Q</Name>
+	<Parent><ID>84</ID><Name>3Q Таблети / 3Q Tablets</Name></Parent>
+	<Parent><ID>3</ID><Name>TABLETS</Name></Parent>
+	<Title>8"</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>87</ID>
+	<Name>9.7" 3Q</Name>
+	<Parent><ID>84</ID><Name>3Q Таблети / 3Q Tablets</Name></Parent>
+	<Parent><ID>3</ID><Name>TABLETS</Name></Parent>
+	<Title>9.7"</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>88</ID>
+	<Name>10.1" 3Q</Name>
+	<Parent><ID>84</ID><Name>3Q Таблети / 3Q Tablets</Name></Parent>
+	<Parent><ID>3</ID><Name>TABLETS</Name></Parent>
+	<Title>10.1"</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>89</ID>
+	<Name>Гаранционна карта 3Q</Name>
+	<Parent><ID>84</ID><Name>3Q Таблети / 3Q Tablets</Name></Parent>
+	<Parent><ID>3</ID><Name>TABLETS</Name></Parent>
+	<Import>false</Import>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>90</ID>
+	<Name>ELO TOUCH Таблети</Name>
+	<Parent><ID>3</ID><Name>TABLETS</Name></Parent>
+	<Title>ELO TOUCH</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>91</ID>
+	<Name>Резервни части OKI</Name>
+	<Import>false</Import>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>92</ID>
+	<Name>TABLET >> 3Q Таблети / 3Q Tablets >> 7.85" 3Q</Name>
+	<Import>false</Import>
+	<Deleted>1</Deleted>
+</Category>
+<Category>
+	<ID>93</ID>
+	<Name>7.85" 3Q</Name>
+	<Parent><ID>84</ID><Name>3Q Таблети / 3Q Tablets</Name></Parent>
+	<Parent><ID>3</ID><Name>TABLETS</Name></Parent>
+	<Title>7.85"</Title>
+	<Deleted>1</Deleted>
+</Category>
+<Category>
+	<ID>94</ID>
+	<Name>7.85" 3Q</Name>
+	<Parent><ID>84</ID><Name>3Q Таблети / 3Q Tablets</Name></Parent>
+	<Parent><ID>3</ID><Name>TABLETS</Name></Parent>
+	<Title>7.85"</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>95</ID>
+	<Name>MONITORS >> AOC Монитори >> 23.8" AOC</Name>
+	<Import>false</Import>
+	<Deleted>1</Deleted>
+</Category>
+<Category>
+	<ID>96</ID>
+	<Name>23.8" AOC</Name>
+	<Parent><ID>18</ID><Name>AOC Монитори</Name></Parent>
+	<Parent><ID>5</ID><Name>МОНИТОРИ</Name></Parent>
+	<Title>23.8"</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>97</ID>
+	<Name>NEC Full HD projectors</Name>
+	<Parent><ID>8</ID><Name>ПРОЕКТОРИ</Name></Parent>
+	<Title></Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>98</ID>
+	<Name>9" 3Q</Name>
+	<Parent><ID>84</ID><Name>3Q Таблети / 3Q Tablets</Name></Parent>
+	<Parent><ID>3</ID><Name>TABLETS</Name></Parent>
+	<Title>9"</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>99</ID>
+	<Name>Видеонаблюдение</Name>
+	<Import>false</Import>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>100</ID>
+	<Name>EIZO Монитори END OF LIFE модели</Name>
+	<Parent><ID>5</ID><Name>МОНИТОРИ</Name></Parent>
+	<Title>EIZO (end of life)</Title>
+	<Deleted>1</Deleted>
+</Category>
+<Category>
+	<ID>101</ID>
+	<Name>All-in-One Computers</Name>
+	<Map><CID>35</CID><CID>316</CID></Map>
+	<Attribute_set>Computers</Attribute_set>
+	<Title>Настолен компютър AiO</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>102</ID>
+	<Name>Tablet N-JOY</Name>
+	<Map><CID>38</CID><CID>59</CID></Map>
+	<Attribute_set>Tablets &amp; E-Readers</Attribute_set>
+	<Title>Таблет N-JOY</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>103</ID>
+	<Name>SMARTPHONES</Name>
+	<Map><CID>194</CID><CID>208</CID></Map>
+	<Attribute_set>Phones</Attribute_set>
+	<Title>Смартфон</Title>
+	<Deleted>1</Deleted>
+</Category>
+<Category>
+	<ID>104</ID>
+	<Name>Fujitsu Таблети</Name>
+	<Parent><ID>3</ID><Name>TABLETS</Name></Parent>
+	<Title>FUJITSU</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>105</ID>
+	<Name>PHICOMM Smartphones</Name>
+	<Parent><ID>103</ID><Name>SMARTPHONES</Name></Parent>
+	<Title>PHICOMM</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>106</ID>
+	<Name>3Q Smartphones</Name>
+	<Parent><ID>103</ID><Name>SMARTPHONES</Name></Parent>
+	<Title>3Q</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>107</ID>
+	<Name>15.6" AOC</Name>
+	<Parent><ID>18</ID><Name>AOC Монитори</Name></Parent>
+	<Parent><ID>5</ID><Name>МОНИТОРИ</Name></Parent>
+	<Title>15.6"</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>108</ID>
+	<Name>24" AOC</Name>
+	<Parent><ID>18</ID><Name>AOC Монитори</Name></Parent>
+	<Parent><ID>5</ID><Name>МОНИТОРИ</Name></Parent>
+	<Title>24"</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>109</ID>
+	<Name>28" PHILIPS</Name>
+	<Parent><ID>15</ID><Name>PHILIPS Mонитори</Name></Parent>
+	<Parent><ID>5</ID><Name>МОНИТОРИ</Name></Parent>
+	<Title>28"</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>110</ID>
+	<Name>ГАРАНЦИОННИ УСЛОВИЯ ТЕХ ВИЖЪН</Name>
+	<Import>false</Import>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>111</ID>
+	<Name>28" AOC</Name>
+	<Parent><ID>18</ID><Name>AOC Монитори</Name></Parent>
+	<Parent><ID>5</ID><Name>МОНИТОРИ</Name></Parent>
+	<Title>28"</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>112</ID>
+	<Name>ВИДЕО РЕВЮТА ТЕХ ВИЖЪН</Name>
+	<Import>false</Import>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>113</ID>
+	<Name>Youtube Видео Ревюта Тех Вижън</Name>
+	<Parent><ID>112</ID><Name>ВИДЕО РЕВЮТА ТЕХ ВИЖЪН</Name></Parent>
+	<Deleted>1</Deleted>
+</Category>
+<Category>
+	<ID>114</ID>
+	<Name>Vbox7 Видео Ревюта Тех Вижън</Name>
+	<Parent><ID>112</ID><Name>ВИДЕО РЕВЮТА ТЕХ ВИЖЪН</Name></Parent>
+	<Deleted>1</Deleted>
+</Category>
+<Category>
+	<ID>115</ID>
+	<Name>Тъчскрийн Монитори IIYAMA</Name>
+	<Parent><ID>20</ID><Name>IIYAMA Монитори</Name></Parent>
+	<Parent><ID>5</ID><Name>МОНИТОРИ</Name></Parent>
+	<Map><CID>313</CID></Map>
+	<Title></Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>116</ID>
+	<Name>TECH VISION / ТЕХ ВИЖЪН</Name>
+	<Import>false</Import>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>117</ID>
+	<Name>БЮЛЕТИНИ ТЕХ ВИЖЪН</Name>
+	<Import>false</Import>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>118</ID>
+	<Name>Elo Touch Solutions Бюлетини</Name>
+	<Parent><ID>117</ID><Name>БЮЛЕТИНИ ТЕХ ВИЖЪН</Name></Parent>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>119</ID>
+	<Name>ЕLO 15E2</Name>
+	<Parent><ID>118</ID><Name>Elo Touch Solutions Бюлетини</Name></Parent>
+	<Parent><ID>117</ID><Name>БЮЛЕТИНИ ТЕХ ВИЖЪН</Name></Parent>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>120</ID>
+	<Name>ELO 15X Series</Name>
+	<Parent><ID>118</ID><Name>Elo Touch Solutions Бюлетини</Name></Parent>
+	<Parent><ID>117</ID><Name>БЮЛЕТИНИ ТЕХ ВИЖЪН</Name></Parent>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>121</ID>
+	<Name>ГРАФИЧНИ ДИСПЛЕИ YIYNOVA</Name>
+	<Map><CID>62</CID><CID>312</CID></Map>
+	<Attribute_set>Monitors &amp; TV</Attribute_set>
+	<Title>Графичен дисплей YIYNOVA</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>122</ID>
+	<Name>ELO IDS</Name>
+	<Parent><ID>9</ID><Name>ELO TOUCH</Name></Parent>
+	<Parent><ID>5</ID><Name>МОНИТОРИ</Name></Parent>
+	<Title>IDS</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>123</ID>
+	<Name>ИНДУСТРИАЛНИ Монитори и Компютри</Name>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>124</ID>
+	<Name>Индустриални Монитори</Name>
+	<Parent><ID>123</ID><Name>ИНДУСТРИАЛНИ Монитори и Компютри</Name></Parent>
+	<Map><CID>62</CID><CID>314</CID></Map>
+	<Attribute_set>Monitors &amp; TV</Attribute_set>
+	<Title>Индустриален монитор</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>125</ID>
+	<Name>Индустриални Компютри</Name>
+	<Parent><ID>123</ID><Name>ИНДУСТРИАЛНИ Монитори и Компютри</Name></Parent>
+	<Map><CID>35</CID><CID>315</CID></Map>
+	<Attribute_set>Computers</Attribute_set>
+	<Title>Индустриален компютър</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>126</ID>
+	<Name>Индустриални All-in-One PC</Name>
+	<Parent><ID>123</ID><Name>ИНДУСТРИАЛНИ Монитори и Компютри</Name></Parent>
+	<Map><CID>35</CID><CID>315</CID><CID>316</CID></Map>
+	<Attribute_set>Computers</Attribute_set>
+	<Title>Индустриален компютър all-in-one</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>127</ID>
+	<Name>NEC проектори подходящи за учебни заведения</Name>
+	<Parent><ID>8</ID><Name>ПРОЕКТОРИ</Name></Parent>
+	<Title>NEC</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>128</ID>
+	<Name>Геймърски Mонитори IIYAMA</Name>
+	<Parent><ID>20</ID><Name>IIYAMA Монитори</Name></Parent>
+	<Parent><ID>5</ID><Name>МОНИТОРИ</Name></Parent>
+	<Title></Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>129</ID>
+	<Name>Публични Дисплеи IIYAMA</Name>
+	<Parent><ID>43</ID><Name>ПУБЛИЧНИ ДИСПЛЕИ</Name></Parent>
+	<Title>IIYAMA</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>130</ID>
+	<Name>Публични Дисплеи IIYAMA Open-Frame</Name>
+	<Parent><ID>43</ID><Name>ПУБЛИЧНИ ДИСПЛЕИ</Name></Parent>
+	<Title>IIYAMA Open-Frame</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>131</ID>
+	<Name>Публични Тъчскрийн Дисплеи IIYAMA</Name>
+	<Parent><ID>43</ID><Name>ПУБЛИЧНИ ДИСПЛЕИ</Name></Parent>
+	<Title>IIYAMA</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>132</ID>
+	<Name>AG Neovo Монитори</Name>
+	<Parent><ID>5</ID><Name>МОНИТОРИ</Name></Parent>
+	<Title>AG Neovo</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>133</ID>
+	<Name>серия L</Name>
+	<Parent><ID>132</ID><Name>AG Neovo Монитори</Name></Parent>
+	<Parent><ID>5</ID><Name>МОНИТОРИ</Name></Parent>
+	<Title>L</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>134</ID>
+	<Name>серия LE</Name>
+	<Parent><ID>132</ID><Name>AG Neovo Монитори</Name></Parent>
+	<Parent><ID>5</ID><Name>МОНИТОРИ</Name></Parent>
+	<Title>LE</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>135</ID>
+	<Name>серия FM</Name>
+	<Parent><ID>132</ID><Name>AG Neovo Монитори</Name></Parent>
+	<Parent><ID>5</ID><Name>МОНИТОРИ</Name></Parent>
+	<Title>FM</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>136</ID>
+	<Name>серия U</Name>
+	<Parent><ID>132</ID><Name>AG Neovo Монитори</Name></Parent>
+	<Parent><ID>5</ID><Name>МОНИТОРИ</Name></Parent>
+	<Title>U</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>137</ID>
+	<Name>серия X</Name>
+	<Parent><ID>132</ID><Name>AG Neovo Монитори</Name></Parent>
+	<Parent><ID>5</ID><Name>МОНИТОРИ</Name></Parent>
+	<Title>X</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>138</ID>
+	<Name>серия SC</Name>
+	<Import>false</Import>
+	<Deleted>1</Deleted>
+</Category>
+<Category>
+	<ID>139</ID>
+	<Name>серия SC</Name>
+	<Import>false</Import>
+	<Deleted>1</Deleted>
+</Category>
+<Category>
+	<ID>140</ID>
+	<Name>серия SC</Name>
+	<Parent><ID>132</ID><Name>AG Neovo Монитори</Name></Parent>
+	<Parent><ID>5</ID><Name>МОНИТОРИ</Name></Parent>
+	<Title>SC</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>141</ID>
+	<Name>серия SQ</Name>
+	<Parent><ID>132</ID><Name>AG Neovo Монитори</Name></Parent>
+	<Parent><ID>5</ID><Name>МОНИТОРИ</Name></Parent>
+	<Title>SQ</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>142</ID>
+	<Name>серия SX</Name>
+	<Parent><ID>132</ID><Name>AG Neovo Монитори</Name></Parent>
+	<Parent><ID>5</ID><Name>МОНИТОРИ</Name></Parent>
+	<Title>SX</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>143</ID>
+	<Name>серия RX</Name>
+	<Parent><ID>132</ID><Name>AG Neovo Монитори</Name></Parent>
+	<Parent><ID>5</ID><Name>МОНИТОРИ</Name></Parent>
+	<Title>RX</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>144</ID>
+	<Name>серия DR</Name>
+	<Parent><ID>132</ID><Name>AG Neovo Монитори</Name></Parent>
+	<Parent><ID>5</ID><Name>МОНИТОРИ</Name></Parent>
+	<Title>DR</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>145</ID>
+	<Name>серия HX</Name>
+	<Parent><ID>132</ID><Name>AG Neovo Монитори</Name></Parent>
+	<Parent><ID>5</ID><Name>МОНИТОРИ</Name></Parent>
+	<Title>HX</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>146</ID>
+	<Name>Публични Дисплеи AG Neovo</Name>
+	<Parent><ID>43</ID><Name>ПУБЛИЧНИ ДИСПЛЕИ</Name></Parent>
+	<Title>AG Neovo</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>151</ID>
+	<Name>Тъчсркийн Монитори AG Neovo</Name>
+	<Parent><ID>132</ID><Name>AG Neovo Монитори</Name></Parent>
+	<Parent><ID>5</ID><Name>МОНИТОРИ</Name></Parent>
+	<Map><CID>313</CID></Map>
+	<Title></Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>155</ID>
+	<Name>ЗАЩИТНИ СТЕНИ</Name>
+	<Map><CID>171</CID><CID>179</CID></Map>
+	<Attribute_set>Network Others</Attribute_set>
+	<Title>Защитна стена</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>156</ID>
+	<Name>AOC GAMING</Name>
+	<Parent><ID>18</ID><Name>AOC Монитори</Name></Parent>
+	<Parent><ID>5</ID><Name>МОНИТОРИ</Name></Parent>
+	<Title>GAMING</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>157</ID>
+	<Name>ALLIED TELESIS</Name>
+	<Import>false</Import>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>158</ID>
+	<Name>Media Converter</Name>
+	<Parent><ID>157</ID><Name>ALLIED TELESIS</Name></Parent>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>159</ID>
+	<Name>Optical Modules</Name>
+	<Parent><ID>157</ID><Name>ALLIED TELESIS</Name></Parent>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>160</ID>
+	<Name>Routers</Name>
+	<Parent><ID>157</ID><Name>ALLIED TELESIS</Name></Parent>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>161</ID>
+	<Name>Switches</Name>
+	<Parent><ID>157</ID><Name>ALLIED TELESIS</Name></Parent>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>162</ID>
+	<Name>TARGUS</Name>
+	<Import>false</Import>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>163</ID>
+	<Name>AVIRA - Antivirus</Name>
+	<Parent><ID>164</ID><Name>Avira Small Business Suite</Name></Parent>
+	<Parent><ID>170</ID><Name>AVIRA - Antivirus</Name></Parent>
+	<Title></Title>
+	<Deleted>1</Deleted>
+</Category>
+<Category>
+	<ID>164</ID>
+	<Name>Avira Small Business Suite</Name>
+	<Parent><ID>170</ID><Name>AVIRA - Antivirus</Name></Parent>
+	<Title>Small Business Suite</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>165</ID>
+	<Name>Business Bundle Products</Name>
+	<Parent><ID>170</ID><Name>AVIRA - Antivirus</Name></Parent>
+	<Title>Business Bundle</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>166</ID>
+	<Name>Business Products</Name>
+	<Parent><ID>170</ID><Name>AVIRA - Antivirus</Name></Parent>
+	<Title>Business</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>167</ID>
+	<Name>Managed Services</Name>
+	<Parent><ID>170</ID><Name>AVIRA - Antivirus</Name></Parent>
+	<Title>Managed Service</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>168</ID>
+	<Name>OTC Products</Name>
+	<Parent><ID>170</ID><Name>AVIRA - Antivirus</Name></Parent>
+	<Title>OTC</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>169</ID>
+	<Name>AVIRA - Antivirus</Name>
+	<Map><CID>185</CID><CID>186</CID></Map>
+	<Attribute_set>Software</Attribute_set>
+	<Title>Антивирусен софтуер AVIRA</Title>
+	<Deleted>1</Deleted>
+</Category>
+<Category>
+	<ID>170</ID>
+	<Name>AVIRA - Antivirus</Name>
+	<Map><CID>185</CID><CID>186</CID></Map>
+	<Attribute_set>Software</Attribute_set>
+	<Title>Антивирусен софтуер AVIRA</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>171</ID>
+	<Name>ELO small IDS Android</Name>
+	<Parent><ID>47</ID><Name>ELO IDS - Интерактивни Тъчскрийн Дисплеи</Name></Parent>
+	<Parent><ID>43</ID><Name>ПУБЛИЧНИ ДИСПЛЕИ</Name></Parent>
+	<Title>small Android</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>172</ID>
+	<Name>ELO small IDS Windows</Name>
+	<Parent><ID>47</ID><Name>ELO IDS - Интерактивни Тъчскрийн Дисплеи</Name></Parent>
+	<Parent><ID>43</ID><Name>ПУБЛИЧНИ ДИСПЛЕИ</Name></Parent>
+	<Title>small Windows</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>173</ID>
+	<Name>ELO large IDS</Name>
+	<Parent><ID>47</ID><Name>ELO IDS - Интерактивни Тъчскрийн Дисплеи</Name></Parent>
+	<Parent><ID>43</ID><Name>ПУБЛИЧНИ ДИСПЛЕИ</Name></Parent>
+	<Title>large</Title>
+	<Deleted>0</Deleted>
+</Category>
+<Category>
+	<ID>174</ID>
+	<Name>РАЗПРОДАЖБА</Name>
+	<Import>false</Import>
+	<Deleted>0</Deleted>
+</Category>
+</Categories>

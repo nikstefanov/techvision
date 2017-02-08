@@ -1,0 +1,27 @@
+<Manufacturers>
+	<Vendor><ManufacturerID>1</ManufacturerID><Name>TOSHIBA</Name><CMName>TOSHIBA</CMName></Vendor>
+	<Vendor><ManufacturerID>2</ManufacturerID><Name>PACKARD BELL</Name><CMName>PACKARD BELL</CMName></Vendor>
+	<Vendor><ManufacturerID>3</ManufacturerID><Name>PHILIPS</Name><CMName>PHILIPS</CMName></Vendor>
+	<Vendor><ManufacturerID>4</ManufacturerID><Name>AOC</Name><CMName>AOC</CMName></Vendor>
+	<Vendor><ManufacturerID>5</ManufacturerID><Name>EIZO</Name><CMName>EIZO</CMName></Vendor>
+	<Vendor><ManufacturerID>6</ManufacturerID><Name>Elo Touch Solutions</Name><CMName>ELO TOUCH SOLUTIONS</CMName></Vendor>
+	<Vendor><ManufacturerID>7</ManufacturerID><Name>NEC</Name><CMName>NEC</CMName></Vendor>
+	<Vendor><ManufacturerID>8</ManufacturerID><Name>IIYAMA</Name><CMName>IIYAMA</CMName></Vendor>
+	<Vendor><ManufacturerID>9</ManufacturerID><Name>OKI</Name><CMName>OKI</CMName></Vendor>
+	<Vendor><ManufacturerID>10</ManufacturerID><Name>IBM</Name><CMName>IBM</CMName></Vendor>
+	<Vendor><ManufacturerID>11</ManufacturerID><Name>TREND MICRO</Name><CMName>TREND MICRO</CMName></Vendor>
+	<Vendor><ManufacturerID>12</ManufacturerID><Name>FUJITSU</Name><CMName>FUJITSU</CMName></Vendor>
+	<Vendor><ManufacturerID>13</ManufacturerID><Name>3Q</Name><CMName>3Q</CMName></Vendor>
+	<Vendor><ManufacturerID>14</ManufacturerID><Name>Longse</Name><CMName>LONGSE</CMName></Vendor>
+	<Vendor><ManufacturerID>15</ManufacturerID><Name>HIKVISION</Name><CMName>HIKVISION</CMName></Vendor>
+	<Vendor><ManufacturerID>16</ManufacturerID><Name>CNB</Name><CMName>CNB</CMName></Vendor>
+	<Vendor><ManufacturerID>17</ManufacturerID><Name>Samsung</Name><CMName>SAMSUNG</CMName></Vendor>
+	<Vendor><ManufacturerID>18</ManufacturerID><Name>Panasonic</Name><CMName>PANASONIC</CMName></Vendor>
+	<Vendor><ManufacturerID>19</ManufacturerID><Name>N-JOY</Name><CMName>NJOY</CMName></Vendor>
+	<Vendor><ManufacturerID>20</ManufacturerID><Name>PHICOMM</Name><CMName>PHICOMM</CMName></Vendor>
+	<Vendor><ManufacturerID>21</ManufacturerID><Name>YIYNOVA</Name><CMName>YIYNOVA</CMName></Vendor>
+	<Vendor><ManufacturerID>22</ManufacturerID><Name>FAYTECH</Name><CMName>FAYTECH</CMName></Vendor>
+	<Vendor><ManufacturerID>23</ManufacturerID><Name>AG Neovo</Name><CMName>AG NEOVO</CMName></Vendor>
+	<Vendor><ManufacturerID>24</ManufacturerID><Name>DELL SONICWALL</Name><CMName>DELL SONICWALL</CMName></Vendor>
+	<Vendor><ManufacturerID>25</ManufacturerID><Name>WATCHGUARD</Name><CMName>WATCHGUARD</CMName></Vendor>
+</Manufacturers>
